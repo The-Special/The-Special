@@ -1,16 +1,38 @@
-### Hi there 👋
+### 💎 Hi I'm Special.
 
-<!--
-**The-Special/The-Special** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mert but i like using my username [Special] more.
+I'm a Developer and Graphic&Motion Designer.
+I've been using the computer for twelve years. 
+When I was little I was very fond of computers and technology.
+I am currently trying to improve myself with small projects.Do not forget to follow me :)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Javascript and Python...
+- 🌱 I’m currently learning Python , Html , CSS , Design...
+- 💬 Ask me about Javascript and Python
+- ⚡ Fun fact: I like play video games.
+
+
+### 💎 How can you reach me?
+
+🌟[Discord][Discord]  **|**
+🌟[Instagram][Instagram] **|**
+🌟[Twitch][Twitch] **|**
+🌟[Youtube][Youtube] **|**
+
+
+[Discord]: https://discord.gg/etXBHXkCNy 
+
+[Instagram]: https://www.instagram.com/special.fx0/ 
+
+[Twitch]: https://www.twitch.tv/oyeefx
+
+[Youtube]: https://www.youtube.com/c/OyeeFX 
+
+Note: If you can't reach me from these links, you can enter my discord name. {Special#0047}
+
+
+
+
+
+
