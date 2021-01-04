@@ -31,6 +31,8 @@ I am currently trying to improve myself with small projects.Do not forget to fol
 
 Note: If you can't reach me from these links, you can enter my discord name. {Special#0047}
 
+![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=The-Special&show_icons=true&theme=radical)
+
 
 
 
