@@ -16,14 +16,11 @@ I am currently trying to improve myself with small projects.Do not forget to fol
 ### 💎 How can you reach me?
 
 🌟[Discord][Discord]  **|**
-🌟[Instagram][Instagram] **|**
 🌟[Twitch][Twitch] **|**
 🌟[Youtube][Youtube] **|**
 
 
 [Discord]: https://discord.gg/etXBHXkCNy 
-
-[Instagram]: https://www.instagram.com/special.fx0/ 
 
 [Twitch]: https://www.twitch.tv/oyeefx
 
