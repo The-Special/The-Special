@@ -20,7 +20,7 @@ I am currently trying to improve myself with small projects.Do not forget to fol
 🌟[Youtube][Youtube] **|**
 
 
-[Discord]: https://discord.gg/ZGG7zBxwZ9 
+[Discord]: https://discord.com/users/539874816820379648
 
 [Twitch]: https://www.twitch.tv/oyeefx
 
