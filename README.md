@@ -9,7 +9,7 @@ I am currently trying to improve myself with small projects.Do not forget to fol
 
 - 🔭 I’m currently working on Javascript and Python...
 - 🌱 I’m currently learning Python , Html , CSS , Design...
-- 💬 Ask me about Javascript and Python
+- 💬 Ask me about Javascript , Python and Design
 - ⚡ Fun fact: I like play video games.
 
 
