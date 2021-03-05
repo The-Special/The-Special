@@ -22,7 +22,7 @@ I am currently trying to improve myself with small projects.Do not forget to fol
 
 [Discord]: https://discord.com/users/539874816820379648
 
-[Twitch]: https://www.twitch.tv/oyeefx
+[Twitch]: https://www.twitch.tv/imspecial0
 
 [Youtube]: https://www.youtube.com/c/OyeeFX 
 
