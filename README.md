@@ -24,7 +24,7 @@ I am currently trying to improve myself with small projects.Do not forget to fol
 
 [Twitch]: https://www.twitch.tv/imspecial0
 
-[Youtube]: https://www.youtube.com/c/OyeeFX 
+[Youtube]: https://www.youtube.com/channel/UCMqKuanMFHUT7d4B1NgzW8A
 
 Note: If you can't reach me from these links, you can enter my discord name. {Special#0047}
 
