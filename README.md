@@ -31,7 +31,6 @@ Note: If you can't reach me from these links, you can enter my discord name. {Sp
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=The-Special&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Special&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
-    <img src="https://github-profile-trophy.vercel.app/?username=The-Special&theme=dracula" />
 </p>
 
 
