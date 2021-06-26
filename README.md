@@ -2,8 +2,6 @@
 
 My name is Mert but i like using my username [Special] more.
 I'm a Developer and Graphic&Motion Designer.
-I've been using the computer for twelve years. 
-When I was little I was very fond of computers and technology.
 I am currently trying to improve myself with small projects.
 
 
