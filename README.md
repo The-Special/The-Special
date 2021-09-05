@@ -2,14 +2,11 @@
 
 My name is Mert but i like using my username [Special] more.
 I'm a Developer and Graphic&Motion Designer.
-I am currently trying to improve myself with small projects.
 
 
-- 🔭 I’m currently working on Javascript and Python...
-- 🌱 I’m currently learning Python , Html , CSS , Design...
-- 💬 Ask me about Javascript , Python and Design
-- ⚡ Fun fact: I like play video games.
-
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=the-special&color=dc143c"/>
+</div>
 
 ### 💎 How can you reach me?
 
