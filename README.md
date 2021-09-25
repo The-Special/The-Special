@@ -21,7 +21,7 @@ I'm a Developer and Graphic&Motion Designer.
 
 [Youtube]: https://www.youtube.com/channel/UCMqKuanMFHUT7d4B1NgzW8A
 
-Note: If you can't reach me from these links, you can enter my discord name. {Special#0047}
+Note: If you can't reach me from these links, you can enter my discord name. {Special#3375}
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=The-Special&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true&hide_border=true" />
