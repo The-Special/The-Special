@@ -29,7 +29,7 @@ Note: If you can't reach me from these links, you can enter my discord name. {Sp
 </p>
 
 # ⚫ Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/331846231514939392)](https://discord.com/users/539874816820379648)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/539874816820379648)](https://discord.com/users/539874816820379648)
 
 
 
