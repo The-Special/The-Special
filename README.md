@@ -1,7 +1,7 @@
 ### 💎 Hi I'm Special.
 
 My name is Mert but i like using my username [Special] more.
-I'm a Developer and Graphic&Motion Designer.
+I'm a Developer and Graphic & Motion Designer.
 
 
 <div align="center">
